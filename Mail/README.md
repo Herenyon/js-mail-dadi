@@ -6,7 +6,7 @@ creo una variabile let statoAccesso con valore true
 
 
 
-creo un for(let i = 0; i <= arrLength.length; i++)
+creo un for(let i = 0; i <= archivioEmail.length; i++)
 
 creo un if(emailUtente === archivioEmail[i]) che controlli se emailUtente è inserita dentro archivioEmail e se lo è stampa in console il messaggio console.log(emailUtente + ' ' + 'è autorizzata ad accedere') per poi dare alla variabile statoAccesso il valore false
 
